@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\filter.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable\\filter.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_transparent.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable\\img_transparent.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\profileicon.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable\\profileicon.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emoji_places_light.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\FriendApp1\\lib\\0.4.5-SNAPSHOT\\res\\drawable\\ic_emoji_places_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orca_composer_popup_button_active.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\FriendApp1\\lib\\0.4.5-SNAPSHOT\\res\\drawable\\orca_composer_popup_button_active.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable\\edittext.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selecteffect.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable\\selecteffect.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emoji_nature_light.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\FriendApp1\\lib\\0.4.5-SNAPSHOT\\res\\drawable\\ic_emoji_nature_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_play.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable\\ic_play.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no_image.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable\\no_image.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orca_emoji_tab_background.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\FriendApp1\\lib\\0.4.5-SNAPSHOT\\res\\drawable\\orca_emoji_tab_background.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_play1.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable\\ic_play1.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_uncheck.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable\\checkbox_uncheck.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_bg_normal.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable\\list_item_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orca_composer_popup_button.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\FriendApp1\\lib\\0.4.5-SNAPSHOT\\res\\drawable\\orca_composer_popup_button.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orca_composer_attach_location_button.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\FriendApp1\\lib\\0.4.5-SNAPSHOT\\res\\drawable\\orca_composer_attach_location_button.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orca_emoji_tab_dark_background.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\FriendApp1\\lib\\0.4.5-SNAPSHOT\\res\\drawable\\orca_emoji_tab_dark_background.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share.jpg",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable\\share.jpg"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_pause.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable\\ic_pause.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_map.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable\\ic_map.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_bg_pressed.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable\\list_item_bg_pressed.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emoji_people_light.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\FriendApp1\\lib\\0.4.5-SNAPSHOT\\res\\drawable\\ic_emoji_people_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emoji_objects_light.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\FriendApp1\\lib\\0.4.5-SNAPSHOT\\res\\drawable\\ic_emoji_objects_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c7edfc.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable\\c7edfc.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_check.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable\\checkbox_check.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orca_composer_attach_camera_button.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\FriendApp1\\lib\\0.4.5-SNAPSHOT\\res\\drawable\\orca_composer_attach_camera_button.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emoji_symbols_light.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\FriendApp1\\lib\\0.4.5-SNAPSHOT\\res\\drawable\\ic_emoji_symbols_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orca_composer_attach_photo_button.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\FriendApp1\\lib\\0.4.5-SNAPSHOT\\res\\drawable\\orca_composer_attach_photo_button.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\counter_bg.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable\\counter_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orca_emoji_backspace_front_button.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\FriendApp1\\lib\\0.4.5-SNAPSHOT\\res\\drawable\\orca_emoji_backspace_front_button.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_selector.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable\\checkbox_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emoji_recent_light.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\FriendApp1\\lib\\0.4.5-SNAPSHOT\\res\\drawable\\ic_emoji_recent_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orca_emoji_more_front_button.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\FriendApp1\\lib\\0.4.5-SNAPSHOT\\res\\drawable\\orca_emoji_more_front_button.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    }
+]

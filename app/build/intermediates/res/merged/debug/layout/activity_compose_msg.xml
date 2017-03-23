@@ -1,0 +1,91 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#c7edfc"
+    tools:context=".ComposeMsgActivity"
+    
+     >
+
+    <LinearLayout
+        android:id="@+id/llll"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:background="@color/bg_N"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/menu_slide"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/menu_icon"
+            android:visibility="invisible" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="Send Message"
+            android:textColor="#ffffff"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/menu_icon"
+            android:visibility="invisible" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:padding="8dp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/llll"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/toS"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/edittext"
+            android:ems="10"
+            android:hint="To"
+            android:maxLines="5"
+            android:padding="10dp"
+            android:singleLine="false"
+            android:textSize="20dp" />
+
+        <EditText
+            android:gravity="top"
+            android:id="@+id/msgS"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/edittext"
+            android:ems="10"
+            android:height="200dp"
+            android:hint="Type Message Here"
+            android:maxLines="5"
+            android:padding="10dp"
+            android:singleLine="false"
+            android:textSize="20dp" />
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/send_press"
+             />
+    </LinearLayout>
+
+</RelativeLayout>

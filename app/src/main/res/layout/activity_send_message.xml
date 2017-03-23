@@ -1,0 +1,60 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Post_Status" >
+
+    <!-- This acts as Actionbar -->
+
+    <RelativeLayout
+        android:id="@+id/relativeIn_Ps"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#96D6E3"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/textForTitle_ps"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:text="Send Message"
+            android:textColor="#999ccc"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+
+    <EditText
+        android:id="@+id/editForStatus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="15dp"
+        android:layout_below="@+id/relativeIn_Ps"/>
+
+    <Button
+        android:id="@+id/btnForPhoto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/editForStatus"
+        android:text="Photo" />
+
+    <Button
+        android:id="@+id/btnForPost"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/editForStatus"
+        android:text="Send" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>

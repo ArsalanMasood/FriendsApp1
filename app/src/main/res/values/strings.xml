@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Friends</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="google_map_key">AIzaSyD0KSUhRU_VXhHVOHyWRr6t6oJFxM3l6Xg</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_friend__list">Friend_List</string>
+    <string name="title_activity_personal__info">Personal_Info</string>
+    <string name="title_activity_profile_pic">Profile_pic</string>
+    <string name="app_id">AIzaSyBv31Oa6xj59nUocOmlSSYgxInRS9N2JNo</string>
+    <string name="app_fid">825726474172782</string>
+    <string name="title_activity_first_">First_Activity</string>
+    <string name="title_activity_register">Register</string>
+    <string name="password">Password</string>
+    <string name="fname">First Name</string>
+    <string name="lname">Last Name</string>
+    <string name="username">Enter Email</string>
+    <string name="email">Email</string>
+    <string name="userForReg"> User Name</string>
+    <string name="passForReg">Password</string>
+    <string name="con_passForReg">Confirm Password</string>
+    <string name="logged"><u>Keep me logged in.</u></string>
+    <string name="forgot"><u> Forgot Password?</u></string>
+    <string name="agree"><u>I agree to the rerms and conditions.</u></string>
+
+    <string name="crash_toast_text">Ooooops ! I crashed, but a report has been sent to my developer to help fix the issue !</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Home</item>
+        <item>Profile</item>
+        <item>Messages</item>
+        <item>Destination</item>
+        <item>Favorites</item>
+        <item>New User</item>
+        <item>Settings</item>
+    </string-array>
+    <string-array name="profile_sex_items">
+        <item>Select</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="profile_relation_items">
+        <item>Single</item>
+        <item>In a relationship</item>
+    </string-array>
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_people</item>
+        <item>@drawable/ic_photos</item>
+        <item>@drawable/ic_communities</item>
+        <item>@drawable/ic_pages</item>
+        <item>@drawable/ic_whats_hot</item>
+        <item>@drawable/ic_whats_hot</item>
+    </array>
+
+    <string-array name="looking">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Gay</item>
+    </string-array>
+
+    <string name="title_activity_slide__bar">Slide_Bar</string>
+    <string name="title_activity_new_user">NewUser</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_messages">Messages</string>
+    <string name="title_activity_inbox">Inbox</string>
+    <string name="title_activity_sent">Sent</string>
+    <string name="title_activity_send_message">Send_message</string>
+    <string name="title_activity_destination">Destination</string>
+    <string name="title_activity_favorites">Favorites</string>
+    <string name="title_activity_visited">Visited</string>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_romms_fragment">RommsFragment</string>
+    <string name="title_activity_food__fragment">Food_Fragment</string>
+    <string name="title_activity_beer_bar__fragment">BeerBar_Fragment</string>
+    <string name="title_activity_photo_album">PhotoAlbumActivity</string>
+    <string name="title_activity_friend_list">FriendListActivity</string>
+    <string name="title_activity_map_tab">MapTabActivity</string>
+    <string name="title_activity_conversation">ConversationActivity</string>
+    <string name="title_activity_compose_msg">ComposeMsgActivity</string>
+    <string name="title_activity_forgot_password">ForgotPasswordActivity</string>
+    <string name="title_activity_conversation_map">ConversationMapActivity</string>
+
+</resources>

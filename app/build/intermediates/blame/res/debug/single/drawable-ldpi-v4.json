@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.yahoo.mobile.client.android.util.rangeseekbar\\rangeseekbar-library\\0.1.0\\res\\drawable-ldpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
+    }
+]

@@ -1,0 +1,578 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:2:1-277:12
+	package
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#com.friends.friends.googlemapsv2.permission.MAPS_RECEIVE
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:7:5-96
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:7:22-93
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:8:22-68
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.6.1\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.6.1\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.INTERNET
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.6.1\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-gcm:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.6.1\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.6.1\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.6.1\AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:11:5-98
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:11:22-95
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:13:5-74
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:13:22-71
+uses-permission#android.provider.Settings.ACTION_LOCATION_SOURCE_SETTINGS
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:14:5-97
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:14:22-94
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:18:22-76
+uses-permission#android.permission.CAPTURE_AUDIO_OUTPUT
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.CAMERA
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:20:5-65
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:20:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:21:5-80
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:21:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:22:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-gcm:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.6.1\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.6.1\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:23:22-79
+permission#com.friends.friends.permission.C2D_MESSAGE
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:25:5-27:47
+	android:protectionLevel
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:27:9-44
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:26:9-66
+uses-permission#com.friends.friends.permission.C2D_MESSAGE
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:29:5-82
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:29:22-79
+uses-sdk
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:31:5-43
+MERGED from [com.yahoo.mobile.client.android.util.rangeseekbar:rangeseekbar-library:0.1.0] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.yahoo.mobile.client.android.util.rangeseekbar\rangeseekbar-library\0.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.0] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.android.gms:play-services-location:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.6.1\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-base:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.6.1\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-gcm:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.6.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.6.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.6.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.6.1\AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.6.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.6.1\AndroidManifest.xml:3:5-42
+MERGED from [com.devs:acr:1.0.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.devs\acr\1.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [FriendApp1:lib:0.4.5-SNAPSHOT] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\FriendApp1\lib\0.4.5-SNAPSHOT\AndroidManifest.xml:5:5-7:41
+MERGED from [FriendApp1:shutterbug:0.4.5-SNAPSHOT] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\FriendApp1\shutterbug\0.4.5-SNAPSHOT\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.0.0] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:31:15-40
+		INJECTED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:33:5-275:19
+MERGED from [com.android.support:appcompat-v7:23.0.0] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-location:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.6.1\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.6.1\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-gcm:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.6.1\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.6.1\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.6.1\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-clearcut:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.6.1\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.6.1\AndroidManifest.xml:4:5-19
+MERGED from [com.devs:acr:1.0.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.devs\acr\1.0.1\AndroidManifest.xml:11:5-19:19
+MERGED from [FriendApp1:lib:0.4.5-SNAPSHOT] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\FriendApp1\lib\0.4.5-SNAPSHOT\AndroidManifest.xml:9:5-10:19
+	android:label
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:37:9-41
+	android:supportsRtl
+		ADDED from [com.devs:acr:1.0.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.devs\acr\1.0.1\AndroidManifest.xml:14:9-35
+	android:allowBackup
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:35:9-35
+	android:icon
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:36:9-38
+	android:largeHeap
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:38:9-33
+	android:theme
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:39:9-40
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:34:9-43
+activity#com.friends.friends.Splash
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:40:9-49:20
+	android:screenOrientation
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:43:13-49
+	android:label
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:42:13-45
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:41:13-35
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:44:13-48:29
+action#android.intent.action.MAIN
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:47:17-77
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:47:27-74
+activity#com.friends.friends.PictureDetailActivity
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:50:9-55:20
+	android:screenOrientation
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:53:13-49
+	android:label
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:52:13-43
+	android:windowSoftInputMode
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:54:13-54
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:51:13-50
+activity#com.friends.friends.First_Activity
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:56:9-61:20
+	android:screenOrientation
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:59:13-49
+	android:label
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:58:13-45
+	android:windowSoftInputMode
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:60:13-54
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:57:13-43
+activity#com.friends.friends.Map
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:62:9-67:20
+	android:screenOrientation
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:65:13-49
+	android:label
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:64:13-56
+	android:windowSoftInputMode
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:66:13-54
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:63:13-32
+activity#com.friends.friends.PrivacyPolicyActivity
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:68:9-73:20
+	android:screenOrientation
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:71:13-49
+	android:label
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:70:13-56
+	android:windowSoftInputMode
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:72:13-54
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:69:13-50
+activity#com.friends.friends.Friend_List
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:75:9-80:20
+	android:screenOrientation
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:78:13-49
+	android:label
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:77:13-64
+	android:windowSoftInputMode
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:79:13-54
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:76:13-40
+activity#com.friends.friends.ActivityFilter
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:81:9-86:20
+	android:screenOrientation
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:84:13-49
+	android:label
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:83:13-35
+	android:windowSoftInputMode
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:85:13-54
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:82:13-43
+activity#com.friends.friends.Personal_Info
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:87:9-92:20
+	android:screenOrientation
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:90:13-49
+	android:label
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:89:13-66
+	android:windowSoftInputMode
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:91:13-54
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:88:13-42
+activity#com.friends.friends.ProfileInfo
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:93:9-98:20
+	android:screenOrientation
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:96:13-49
+	android:label
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:95:13-63
+	android:windowSoftInputMode
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:97:13-54
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:94:13-40
+activity#com.friends.friends.Profile_pic
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:99:9-103:20
+	android:screenOrientation
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:102:13-49
+	android:label
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:101:13-63
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:100:13-40
+activity#com.friends.friends.MainActivity
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:104:9-109:20
+	android:screenOrientation
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:107:13-49
+	android:label
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:106:13-58
+	android:windowSoftInputMode
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:108:13-54
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:105:13-41
+activity#com.friends.friends.Login
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:110:9-113:20
+	android:screenOrientation
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:112:13-49
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:111:13-34
+activity#com.friends.friends.Register
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:114:9-119:20
+	android:screenOrientation
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:117:13-49
+	android:label
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:116:13-60
+	android:windowSoftInputMode
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:118:13-54
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:115:13-37
+activity#com.friends.friends.Slide_Bar
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:120:9-125:20
+	android:screenOrientation
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:123:13-49
+	android:label
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:122:13-62
+	android:windowSoftInputMode
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:124:13-54
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:121:13-38
+activity#com.friends.friends.NewUser
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:126:9-131:20
+	android:screenOrientation
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:129:13-49
+	android:label
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:128:13-60
+	android:windowSoftInputMode
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:130:13-54
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:127:13-36
+activity#com.friends.friends.Settings
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:132:9-137:20
+	android:screenOrientation
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:135:13-49
+	android:label
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:134:13-60
+	android:windowSoftInputMode
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:136:13-54
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:133:13-37
+activity#com.friends.friends.Messages
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:138:9-153:20
+	android:screenOrientation
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:141:13-49
+	android:label
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:140:13-36
+	android:windowSoftInputMode
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:142:13-54
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:139:13-37
+intent-filter#android.intent.action.SEND+android.intent.category.DEFAULT
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:143:13-147:29
+action#android.intent.action.SEND
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:144:17-69
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:144:25-66
+category#android.intent.category.DEFAULT
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:145:17-76
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:145:27-73
+data
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:146:17-52
+	android:mimeType
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:146:23-49
+activity#com.friends.friends.Inbox
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:154:9-159:20
+	android:screenOrientation
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:157:13-49
+	android:label
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:156:13-57
+	android:windowSoftInputMode
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:158:13-54
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:155:13-34
+activity#com.friends.friends.Sent
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:160:9-165:20
+	android:screenOrientation
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:163:13-49
+	android:label
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:162:13-56
+	android:windowSoftInputMode
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:164:13-54
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:161:13-33
+activity#com.friends.friends.Send_message
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:166:9-171:20
+	android:screenOrientation
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:169:13-49
+	android:label
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:168:13-64
+	android:windowSoftInputMode
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:170:13-54
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:167:13-41
+activity#com.friends.friends.Destination
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:172:9-177:20
+	android:screenOrientation
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:175:13-49
+	android:label
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:174:13-63
+	android:windowSoftInputMode
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:176:13-54
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:173:13-40
+activity#com.friends.friends.Favorites
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:178:9-183:20
+	android:screenOrientation
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:181:13-49
+	android:label
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:180:13-61
+	android:windowSoftInputMode
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:182:13-54
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:179:13-38
+activity#com.friends.friends.Visited
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:184:9-189:20
+	android:screenOrientation
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:187:13-49
+	android:label
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:186:13-59
+	android:windowSoftInputMode
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:188:13-54
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:185:13-36
+activity#com.friends.friends.Home
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:190:9-195:20
+	android:screenOrientation
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:193:13-49
+	android:label
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:192:13-56
+	android:windowSoftInputMode
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:194:13-54
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:191:13-33
+activity#com.friends.friends.PhotoAlbumActivity
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:196:9-201:20
+	android:screenOrientation
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:199:13-49
+	android:label
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:198:13-63
+	android:windowSoftInputMode
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:200:13-54
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:197:13-47
+activity#com.friends.friends.TabFriendActivity
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:202:9-207:20
+	android:screenOrientation
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:205:13-49
+	android:label
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:204:13-63
+	android:windowSoftInputMode
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:206:13-54
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:203:13-46
+activity#com.friends.friends.TabMapActivity
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:208:9-213:20
+	android:screenOrientation
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:211:13-49
+	android:label
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:210:13-59
+	android:windowSoftInputMode
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:212:13-54
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:209:13-43
+activity#com.friends.friends.TabMapActivity2
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:214:9-219:20
+	android:screenOrientation
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:217:13-49
+	android:label
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:216:13-59
+	android:windowSoftInputMode
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:218:13-54
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:215:13-44
+activity#com.friends.friends.TabMapActivity3
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:220:9-225:20
+	android:screenOrientation
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:223:13-49
+	android:label
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:222:13-59
+	android:windowSoftInputMode
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:224:13-54
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:221:13-44
+activity#com.friends.friends.ConversationActivity
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:226:9-231:20
+	android:screenOrientation
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:229:13-49
+	android:label
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:228:13-64
+	android:windowSoftInputMode
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:230:13-54
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:227:13-49
+activity#com.friends.friends.ComposeMsgActivity
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:232:9-237:20
+	android:screenOrientation
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:235:13-49
+	android:label
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:234:13-63
+	android:windowSoftInputMode
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:236:13-54
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:233:13-47
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:239:9-241:71
+	android:value
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:241:13-68
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:240:13-62
+meta-data#com.google.android.gms.version
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:242:9-244:69
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:244:13-66
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:243:13-58
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:245:9-247:47
+	android:value
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:247:13-44
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:246:13-58
+activity#com.friends.friends.ForgotPasswordActivity
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:249:9-254:20
+	android:screenOrientation
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:252:13-49
+	android:label
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:251:13-67
+	android:windowSoftInputMode
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:253:13-54
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:250:13-51
+receiver#com.friends.friends.GcmBroadcastReceiver
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:256:9-264:20
+	android:permission
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:258:13-73
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:257:13-49
+intent-filter#com.friends.friends+com.google.android.c2dm.intent.RECEIVE
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:259:13-263:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:260:17-81
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:260:25-78
+category#com.friends.friends
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:262:17-64
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:262:27-61
+service#com.friends.friends.GcmMessageHandler
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:266:9-54
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:266:18-51
+service#com.friends.friends.DownloadService
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:267:9-52
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:267:18-49
+activity#com.friends.friends.ConversationMapActivity
+ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:269:9-274:20
+	android:screenOrientation
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:272:13-49
+	android:label
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:271:13-68
+	android:windowSoftInputMode
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:273:13-54
+	android:name
+		ADDED from D:\Android\Android_Studio_Projects\FriendApp1\app\src\main\AndroidManifest.xml:270:13-52
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\AndroidManifest.xml:19:19-85
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.6.1\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.6.1\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.6.1\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.6.1\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.6.1\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.6.1\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.6.1\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.6.1\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.6.1\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.6.1\AndroidManifest.xml:26:19-91
+activity#com.devs.acr.ErrorReporterActivity
+ADDED from [com.devs:acr:1.0.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.devs\acr\1.0.1\AndroidManifest.xml:15:9-18:59
+	android:screenOrientation
+		ADDED from [com.devs:acr:1.0.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.devs\acr\1.0.1\AndroidManifest.xml:17:13-49
+	android:theme
+		ADDED from [com.devs:acr:1.0.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.devs\acr\1.0.1\AndroidManifest.xml:18:13-56
+	android:name
+		ADDED from [com.devs:acr:1.0.1] D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.devs\acr\1.0.1\AndroidManifest.xml:16:13-62

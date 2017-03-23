@@ -1,0 +1,96 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="1dp"
+    android:layout_marginTop="1dp"
+    android:background="#00000000"
+    android:gravity="top"
+    android:orientation="horizontal"
+    android:padding="10dp" >
+
+    <LinearLayout
+        
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/recLay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/send"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingRight="10dp" >
+
+            <ImageView
+                android:id="@+id/imgMapRec"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_marginLeft="20dp"
+                android:src="@drawable/ic_map" />
+
+
+            <TextView
+                android:id="@+id/txtAddressRec"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:maxWidth="@dimen/keyboard_height"
+                android:text="TextView scefeew we we we vwe wewevg wvq vqqwveggwegwegwegwgwegw egew gve weg"
+                android:textColor="#ffffff" />
+
+        </LinearLayout>
+        <TextView
+            android:id="@+id/recT"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dip"
+            android:paddingRight="10dip"
+            android:paddingBottom="10dip"
+            android:paddingTop="5dip"
+            android:text="20-11-2016"
+            android:textColor="#000000" />
+        <LinearLayout
+            android:id="@+id/sendLay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:background="@drawable/rec"
+            android:gravity="center_vertical|right"
+            android:orientation="horizontal"
+            android:paddingLeft="10dp" >
+
+            <TextView
+                android:id="@+id/txtAddressSend"
+                android:maxWidth="@dimen/keyboard_height"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5dp"
+                android:text="qwjdkqjdb  as afasf f  fecxe ewfwe we fwefwevf wefvwe e "
+                android:textColor="#ffffff" />
+
+            <ImageView
+                android:id="@+id/imgMapSend"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_marginRight="20dp"
+                android:src="@drawable/ic_map" />
+
+        </LinearLayout>
+        <TextView
+            android:id="@+id/sendT"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dip"
+            android:paddingRight="10dip"
+            android:paddingBottom="10dip"
+            android:layout_gravity="center_vertical|right"
+            android:paddingTop="5dip"
+            android:text="20-11-2016"
+            android:textColor="#000000" />
+
+    </LinearLayout>
+
+</LinearLayout>

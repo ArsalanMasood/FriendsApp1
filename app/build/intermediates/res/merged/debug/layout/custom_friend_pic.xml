@@ -1,0 +1,26 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/llpic"
+    android:padding="10dp" >
+    <utils.customview.FetchableCircularImageView
+        android:id="@+id/my_image"
+        android:layout_width="110dp"
+        android:layout_height="110dp"
+        app:border="true"
+        android:layout_alignParentRight="true"
+        app:border_color="@color/colorAccent"
+        app:border_width="1dp"
+        app:shadow="true"
+        app:shadow_radius="1"
+        app:shadow_color="@android:color/black"
+        android:src="@drawable/c7edfc"/>
+
+    <ImageView
+        android:visibility="gone"
+        android:layout_width="110dip"
+        android:layout_height="110dip"
+        android:id="@+id/imageView"
+      />
+</RelativeLayout>

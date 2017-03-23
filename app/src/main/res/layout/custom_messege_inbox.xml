@@ -1,0 +1,65 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="1dp"
+    android:layout_marginTop="1dp"
+   
+    android:gravity="top"
+    android:orientation="horizontal"
+    android:padding="10dp" >
+
+    <utils.customview.FetchableCircularImageView
+        android:id="@+id/propicC"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        app:border="true"
+        app:border_color="@color/colorAccent"
+        app:border_width="1dp"
+        app:shadow="true"
+        app:shadow_radius="1"
+        app:shadow_color="@android:color/black"
+        android:layout_centerHorizontal="true"
+        android:scaleType="fitXY"
+        android:layout_below="@+id/textView1"
+        android:src="@drawable/pickselect"/>
+    
+    <LinearLayout
+        android:paddingLeft="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="76dp"
+        android:layout_marginLeft="5dp"
+        android:layout_weight="0.86"
+        android:padding="2dp"
+        android:orientation="vertical" >
+
+        <TextView
+            android:textSize="15dp"
+            android:id="@+id/fnameC"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textColor="#0e74b2" />
+
+        <TextView
+            android:textSize="15dp"
+             
+            android:id="@+id/lnameC"
+            android:layout_width="220dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:text=""
+            android:textColor="#0e74b2" />
+
+       <!--  <TextView
+            android:textSize="15dp"
+            android:id="@+id/emailC"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="3dp"
+            android:layout_weight="0.71"
+            android:text="v@gmail.comm"
+            android:textColor="#0e74b2" /> -->
+    </LinearLayout>
+
+</LinearLayout>

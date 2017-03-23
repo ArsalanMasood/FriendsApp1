@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:rsb="http://schemas.android.com/apk/res-auto"
+   android:background="#c7edfc"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:scrollbars="none" >
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+    <TextView
+        android:visibility="gone"
+        android:layout_marginTop="10dip"
+        android:layout_marginLeft="5dip"
+        android:id="@+id/txtName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Name"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#000000"
+        android:textSize="20dp" />
+    <EditText
+        android:visibility="gone"
+        android:padding="10dip"
+        android:background="@drawable/edittext"
+        android:layout_margin="5dip"
+        android:layout_toLeftOf="@+id/img_filter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:hint="Enter name"
+        android:layout_alignParentTop="true"
+        android:id="@+id/edtName" />
+
+    <View
+        android:visibility="gone"
+        android:layout_marginTop="10dip"
+        android:layout_marginRight="10dip"
+        android:layout_marginLeft="10dip"
+        android:layout_width="match_parent"
+        android:layout_height="0.5dip"
+        android:background="#000000"/>
+
+    <TextView
+    android:layout_margin="5dip"
+    android:id="@+id/txtGender"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Gender"
+    android:textAppearance="?android:attr/textAppearanceLarge"
+    android:textColor="#000000"
+    android:textSize="20dp" />
+
+
+
+
+    <RelativeLayout
+          android:paddingLeft="20dip"
+         android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btnFor_signIn"
+        android:layout_below="@+id/btnFor_signIn" >
+    <CheckBox
+            android:background="@drawable/checkbox_selector"
+            android:button="@null"
+
+            android:layout_width="25dip"
+            android:layout_height="25dip"
+            android:id="@+id/checkBoxMale" />
+      <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_toRightOf="@+id/checkBoxMale"
+            android:layout_marginLeft="10dp"
+            android:text="Male"
+            android:textColor="#000000"
+            android:textSize="16dp" />
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:paddingLeft="20dip"
+
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btnFor_signIn"
+        android:layout_below="@+id/btnFor_signIn" >
+        <CheckBox
+            android:background="@drawable/checkbox_selector"
+            android:button="@null"
+            android:layout_marginTop="5dip"
+            android:layout_width="25dip"
+            android:layout_height="25dip"
+            android:id="@+id/checkBoxFemale" />
+        <TextView
+            android:id="@+id/text2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_toRightOf="@+id/checkBoxFemale"
+            android:layout_marginLeft="10dp"
+            android:text="Female"
+            android:textColor="#000000"
+            android:textSize="16dp" />
+
+    </RelativeLayout>
+
+    <View
+        android:layout_marginTop="10dip"
+        android:layout_marginRight="10dip"
+        android:layout_marginLeft="10dip"
+        android:layout_width="match_parent"
+        android:layout_height="0.5dip"
+        android:background="#000000"/>
+
+    <TextView
+        android:layout_marginTop="10dip"
+     android:layout_marginLeft="5dip"
+        android:id="@+id/txtRelation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Relationship Status"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#000000"
+        android:textSize="20dp" />
+
+
+
+
+    <RelativeLayout
+        android:paddingLeft="20dip"
+        android:id="@+id/main_user"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btnFor_signIn"
+        android:layout_below="@+id/btnFor_signIn" >
+        <CheckBox
+            android:background="@drawable/checkbox_selector"
+            android:button="@null"
+            android:layout_marginTop="5dp"
+            android:layout_width="25dip"
+            android:layout_height="25dip"
+            android:id="@+id/checkBoxSingle" />
+        <TextView
+            android:layout_marginTop="5dp"
+             android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+             android:layout_toRightOf="@+id/checkBoxSingle"
+            android:layout_marginLeft="10dp"
+            android:text="Single"
+            android:textColor="#000000"
+            android:textSize="16dp" />
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:paddingLeft="20dip"
+        android:id="@+id/main_user2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btnFor_signIn"
+        android:layout_below="@+id/btnFor_signIn" >
+        <CheckBox
+            android:background="@drawable/checkbox_selector"
+            android:button="@null"
+            android:layout_marginTop="5dip"
+            android:layout_width="25dip"
+            android:layout_height="25dip"
+            android:id="@+id/checkBoxRelation" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_toRightOf="@+id/checkBoxRelation"
+            android:layout_marginLeft="10dp"
+            android:text="In a relationship"
+            android:textColor="#000000"
+            android:textSize="16dp" />
+
+    </RelativeLayout>
+
+
+    <View
+        android:layout_marginTop="10dip"
+        android:layout_marginRight="10dip"
+        android:layout_marginLeft="10dip"
+        android:layout_width="match_parent"
+        android:layout_height="0.5dip"
+        android:background="#000000"/>
+    <TextView
+        android:layout_marginTop="10dip"
+        android:layout_marginLeft="5dip"
+        android:id="@+id/txtAge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Age"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#000000"
+        android:textSize="20dp" />
+
+
+    <com.yahoo.mobile.client.android.util.rangeseekbar.RangeSeekBar
+        android:id="@+id/rangeSeekbarAge"
+        android:layout_margin="5dip"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        rsb:absoluteMaxValue="100"
+
+        rsb:absoluteMinValue="0" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/txtMin"
+            android:layout_width="0dip"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+
+            android:layout_marginRight="3dip"
+            android:gravity="right"
+            android:textColor="#000000"
+            android:textSize="15dp" />
+        <TextView
+            android:layout_marginLeft="2dip"
+            android:id="@+id/txtMax"
+            android:gravity="left"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+
+            android:layout_weight="1"
+            android:textColor="#000000"
+            android:textSize="15dp" />
+    </LinearLayout>
+
+
+    <View
+        android:layout_marginTop="10dip"
+        android:layout_marginRight="10dip"
+        android:layout_marginLeft="10dip"
+        android:layout_width="match_parent"
+        android:layout_height="0.5dip"
+        android:background="#000000"/>
+    <TextView
+        android:layout_marginTop="10dip"
+        android:layout_marginLeft="5dip"
+        android:id="@+id/txtCountry"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Country"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#000000"
+        android:textSize="20dp" />
+    <EditText
+        android:padding="10dip"
+        android:background="@drawable/edittext"
+        android:layout_margin="5dip"
+        android:layout_toLeftOf="@+id/img_filter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:hint="Enter country"
+        android:layout_alignParentTop="true"
+        android:id="@+id/edtCountry" />
+
+    <Button
+        android:id="@+id/btnApplyFIlters"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Apply Filters" />
+            </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="acr-1.0.1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.devs/acr/1.0.1/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.devs/acr/1.0.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.devs/acr/1.0.1/bea36cee39cf99dd99674d7e1131c9baca43317f/acr-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

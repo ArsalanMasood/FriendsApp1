@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\forgot_password.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\menu\\forgot_password.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\map_tab.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\menu\\map_tab.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\friend_list.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\menu\\friend_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\inbox.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\menu\\inbox.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\friend__list.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\menu\\friend__list.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\compose_msg.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\menu\\compose_msg.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\first_.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\menu\\first_.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\send_message.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\menu\\send_message.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\new_user.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\menu\\new_user.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\slide__bar.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\menu\\slide__bar.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\settings.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\menu\\settings.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\messages.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\menu\\messages.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\personal__info.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\menu\\personal__info.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\photo_album.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\menu\\photo_album.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\conversation.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\menu\\conversation.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\favorites.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\menu\\favorites.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\conversation_map.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\menu\\conversation_map.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\visited.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\menu\\visited.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\register.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\menu\\register.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\profile_pic.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\menu\\profile_pic.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\destination.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\menu\\destination.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\sent.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\menu\\sent.xml"
+    }
+]

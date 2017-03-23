@@ -1,0 +1,57 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   android:background="#c7edfc"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:background="@color/bg_N"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:id="@+id/menu_slide"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:src="@drawable/menu_icon" />
+			
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="Messege"
+                android:textColor="#ffffff"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            
+            
+            <ImageView
+                android:id="@+id/compose_button"
+           		android:scaleType="fitXY"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:src="@drawable/email_compose" />
+            </LinearLayout>
+        >
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/messegeC"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+    </ListView>
+    
+</LinearLayout>

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.devs\acr\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="eba91a56fc2ea7123fc71abec010c8dbe7dcdacb">
+        <dex dex="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\pre-dexed\debug\com.devs-acr-1.0.1_d8c598ae7adcd436fd722e9f9b2904d55088fdb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\Android_Studio_Projects\FriendApp1\app\libs\httpmime-4.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="326bf4147f100e8a4fdd7f1867a87e969fb10812">
+        <dex dex="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\pre-dexed\debug\httpmime-4.0.1_33cc687069f7a109a20f617ec7983aa047088873.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\AppData\Local\Android\sdk\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_86e58862f7a0ca4e59c8422ef61b678cbed149b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\Android_Studio_Projects\FriendApp1\app\libs\slider.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5c03f3a39e0eb9ba2f74681d63093341ca9f3e55">
+        <dex dex="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\pre-dexed\debug\slider_062ccf806975e60dbb921e66b66731c17a72218e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_d8449adee8058c28d9c2e33f4c6e652462e02121.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.0_f2be10ed3ed2c05b68a1706a2377c7f0d6074c7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\Android_Studio_Projects\FriendApp1\app\libs\httpclient-4.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fcacc35075d9c3114da4c4122b42d78786135c90">
+        <dex dex="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\pre-dexed\debug\httpclient-4.0.3_e503d9572a0c94a13d8c055da8b63f75f33b257a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\FriendApp1\lib\0.4.5-SNAPSHOT\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d3222a4872c8cac5870b70041f3749ce3cb0a572">
+        <dex dex="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\pre-dexed\debug\FriendApp1-lib-0.4.5-SNAPSHOT_a5403695c0ac889e21963ceff46c475da21afbe5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="47bbb3ec4b31ba71e125241c090dabe70cbb4de7">
+        <dex dex="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-9.6.1_039587b3afc6ec7f4c13b59f330c67d85338ee16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ad7706f8bb4a985656a8d2142f74021c8b0e03d8">
+        <dex dex="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-9.6.1_506c7559ac49b2aeede8a1cb176cefc8bfb64af3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.4.0\f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2\picasso-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\pre-dexed\debug\picasso-2.4.0_ef4e995d842a82cb3cd263fb06cf8c6375aa0b9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0dfc12e4aacf514346ea866560c99807d032bc48">
+        <dex dex="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-9.6.1_1df7458097ae5b0ea33d923288e3b75edf009073.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee61ace5f3e488fc610e1c67693c49186a441f32">
+        <dex dex="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-9.6.1_fba27fe7766dba3b9c13da38614bfbb53f79c812.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\Android_Studio_Projects\FriendApp1\app\libs\apache-mime4j-0.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="945007627e8d12275d755081a9e609c018e1210d">
+        <dex dex="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\pre-dexed\debug\apache-mime4j-0.6_e0f6f17f9a37e1b8637119244a9d539098837927.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\pre-dexed\debug\glide-3.7.0_8f5aade8774f291398825173d4a9cff52a25707e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6ff796a3173787afe2e712f3aec6f5b99796118e">
+        <dex dex="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-9.6.1_1fec55ad399e08a2f6a3da9ac7c1142d9ee7885c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.6.1_9564bec146c7891e896c0d4bcf3fdffe9689d4bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
+        <dex dex="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-9.6.1_47910414fdfb949264377ccfb1c2f052261e382c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_a0efcdf64b8f025858b891bd0d5a16823d122619.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.6.1_574ed871f2ce304acf750ec72c31444b619ea0c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.6.1_0a071fbdca44dae346b941db224fd1c10b684fa1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.yahoo.mobile.client.android.util.rangeseekbar\rangeseekbar-library\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c365e428c4190791856e37f7fcee4261fd46632f">
+        <dex dex="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\pre-dexed\debug\com.yahoo.mobile.client.android.util.rangeseekbar-rangeseekbar-library-0.1.0_9e691d81d21d1600289cb5900edf01d9f1c9649b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\FriendApp1\shutterbug\0.4.5-SNAPSHOT\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3139d85e705d30b6a6dcdbd958a10274a4f3341f">
+        <dex dex="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\pre-dexed\debug\FriendApp1-shutterbug-0.4.5-SNAPSHOT_975017ec902cef5579008d8ec6e4185bb0a0c1a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\Android_Studio_Projects\FriendApp1\app\libs\http-core-4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1bf8391d59bf37ddf2aa51aa90467afd0388bc2c">
+        <dex dex="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\pre-dexed\debug\http-core-4.1_84a082c232b0371172aa401648f61e75b1f8659d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee0ccb43f6ab276191b7f2d77c305fa9beb26db9">
+        <dex dex="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-9.6.1_969b367f6e96b50a4fce1c6a59ccc5c60853243b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="D:\Android\Android_Studio_Projects\FriendApp1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.6.1_ed021a55ed40e5bf95af8c214471497699f06ab7.jar" />
+    </item>
+
+</items>

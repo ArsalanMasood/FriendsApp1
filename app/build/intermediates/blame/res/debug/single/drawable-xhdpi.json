@@ -1,0 +1,390 @@
+[
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_icon.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\home_icon.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\rec.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\rec.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_send_now.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_send_now.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\new_sign_up.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\new_sign_up.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sign_in_btn.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\sign_in_btn.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sign_up_bg.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\sign_up_bg.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\setting_icon.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\setting_icon.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_location_on_black_36dp.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\ic_location_on_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\splash_screen_blank.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\splash_screen_blank.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\head_img.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\head_img.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher_web.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher_web.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\send.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\send.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\facebook_signin_normal.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\facebook_signin_normal.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\signinbutton_normal.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\signinbutton_normal.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\edit_field.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\edit_field.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\app_below.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\app_below.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\facebook.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\facebook.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\trans_bg.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\trans_bg.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sign_in_bg.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\sign_in_bg.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\checkbox_checked.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\checkbox_checked.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\applogo.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\applogo.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\register_img.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\register_img.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\menu_icon.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\menu_icon.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\edit_rpofile.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\edit_rpofile.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_insert_photo_black_36dp.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\ic_insert_photo_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pickselect.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\pickselect.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_pause_black_36dp.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\ic_pause_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logo_login.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\logo_login.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\new_box_1.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\new_box_1.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_settings_voice_black_36dp.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\ic_settings_voice_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logo.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\slider_bg.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\slider_bg.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_stop_black_36dp.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\ic_stop_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_save.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\ic_save.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\email_compose.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\email_compose.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_keyboard.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_keyboard.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\bg.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logout.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\logout.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\main_splash.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\main_splash.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\profile.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\profile.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_focused_holo.9.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_play_arrow_black_36dp.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\ic_play_arrow_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\message_icon.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\message_icon.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\input.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\input.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\blue_overlay.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\blue_overlay.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\composemsg.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\composemsg.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\stripe.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\stripe.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\send_press.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\send_press.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\header.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\header.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\grey_box.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\grey_box.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\login.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\login.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\blueimage.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\blueimage.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sign_up_txt.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\sign_up_txt.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\message_edit.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\message_edit.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\settingicon.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\settingicon.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\countine.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\countine.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\grey2.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\grey2.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sign_out_icon.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\sign_out_icon.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logo_signup_page.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\src\\main\\res\\drawable-xhdpi\\logo_signup_page.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
+    }
+]

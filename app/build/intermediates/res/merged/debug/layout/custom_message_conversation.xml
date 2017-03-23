@@ -1,0 +1,89 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    xmlns:emojicon="http://schemas.android.com/apk/res-auto"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="1dp"
+    android:layout_marginTop="1dp"
+    android:background="#00000000"
+    android:gravity="top"
+    android:orientation="horizontal"
+    android:padding="10dp" >
+
+    <LinearLayout
+        
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:paddingLeft="15dip"
+            android:id="@+id/recLay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/send"
+            android:orientation="vertical" >
+
+            <github.ankushsachdeva.emojicon.EmojiconTextView
+                android:layout_gravity="center"
+                android:id="@+id/recC"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:autoLink="web"
+                android:padding="10dp"
+                android:text="hiiiiiiii"
+                android:textColor="#000000"
+                emojicon:emojiconSize="30dip"
+                android:gravity="center"/>
+
+            <TextView
+                android:id="@+id/recT"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+              android:layout_marginLeft="10dip"
+                android:layout_marginRight="10dip"
+                android:layout_marginTop="5dip"
+                android:layout_marginBottom="15dip"
+                android:text="20-11-2016"
+                android:textColor="#FFFFFF" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:paddingRight="15dip"
+            android:id="@+id/sendLay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:background="@drawable/rec"
+            android:orientation="vertical" >
+
+
+
+
+            <github.ankushsachdeva.emojicon.EmojiconTextView
+                android:layout_gravity="center"
+                android:id="@+id/sendC"
+
+                android:layout_width="200dip"
+                android:layout_height="wrap_content"
+                android:autoLink="web"
+                android:layout_marginTop="3dp"
+                android:padding="10dp"
+                android:text="skkkskkskksk,skskkdkkdkdkdkkdkdkdkksk"
+                android:textColor="#000000"
+                emojicon:emojiconSize="30dip"
+                android:gravity="center"/>
+            <TextView
+                android:id="@+id/sendT"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dip"
+                android:layout_marginRight="10dip"
+                android:layout_marginTop="5dip"
+                android:layout_marginBottom="15dip"
+                android:text="20-11-2016"
+                android:textColor="#FFFFFF" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

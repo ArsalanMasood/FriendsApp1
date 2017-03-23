@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\emojicon_item.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\lib\\build\\intermediates\\bundles\\debug\\res\\layout\\emojicon_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\emojicon_grid.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\lib\\build\\intermediates\\bundles\\debug\\res\\layout\\emojicon_grid.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\emojicons.xml",
+        "source": "D:\\Android\\Android_Studio_Projects\\FriendApp1\\lib\\build\\intermediates\\bundles\\debug\\res\\layout\\emojicons.xml"
+    }
+]

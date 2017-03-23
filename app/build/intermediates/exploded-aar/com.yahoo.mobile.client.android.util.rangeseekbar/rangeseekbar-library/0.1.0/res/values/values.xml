@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RangeSeekBar"><attr format="integer|float" name="absoluteMinValue"/><attr format="integer|float" name="absoluteMaxValue"/><attr format="boolean" name="singleThumb"/></declare-styleable>
+    <!-- From: file:/Users/anothem/git/android-range-seek-bar/rangeseekbar/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">RangeSeekBar Demo</string>
+    <string name="demo_max_label">Max</string>
+    <string name="demo_min_label">Min</string>
+</resources>
